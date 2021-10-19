@@ -1,6 +1,6 @@
 
 import './App.css';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Limonadacerezada from './components/Limonadacerezada';
 import Limonadadecoco from './components/Limonadadecoco';
 import Limonadafutosrojos from './components/Limonadafutosrojos';
@@ -13,7 +13,7 @@ import Navegacion from './components/Navegacion';
 
 function App() {
   return (
-    
+
 
     <Router>
       <div className="container">
@@ -25,9 +25,9 @@ function App() {
         <Route path="/frutos" component={Limonadafutosrojos} />
         <Route path="/mango" component={Limonadamangobiche} />
         <Route path="/natural" component={Limonadanatural} />
-      
-      
-        <Navegacion/>
+
+
+        <Navegacion />
 
       </div>
 
