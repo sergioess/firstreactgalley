@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/firstreactgalley/build/static/css/main.3e4c0697.chunk.css",
+    "main.js": "/firstreactgalley/build/static/js/main.0f46c8ad.chunk.js",
+    "main.js.map": "/firstreactgalley/build/static/js/main.0f46c8ad.chunk.js.map",
+    "runtime-main.js": "/firstreactgalley/build/static/js/runtime-main.1ef78c60.js",
+    "runtime-main.js.map": "/firstreactgalley/build/static/js/runtime-main.1ef78c60.js.map",
+    "static/js/2.2b528087.chunk.js": "/firstreactgalley/build/static/js/2.2b528087.chunk.js",
+    "static/js/2.2b528087.chunk.js.map": "/firstreactgalley/build/static/js/2.2b528087.chunk.js.map",
+    "index.html": "/firstreactgalley/build/index.html",
+    "static/css/main.3e4c0697.chunk.css.map": "/firstreactgalley/build/static/css/main.3e4c0697.chunk.css.map",
+    "static/js/2.2b528087.chunk.js.LICENSE.txt": "/firstreactgalley/build/static/js/2.2b528087.chunk.js.LICENSE.txt",
+    "static/media/limonadacerezada.212aa69e.jpg": "/firstreactgalley/build/static/media/limonadacerezada.212aa69e.jpg",
+    "static/media/limonadadecoco.a25e24ca.jpg": "/firstreactgalley/build/static/media/limonadadecoco.a25e24ca.jpg",
+    "static/media/limonadafrutosrojos.81490b0f.jpg": "/firstreactgalley/build/static/media/limonadafrutosrojos.81490b0f.jpg",
+    "static/media/limonadamangobiche.0f960683.jpg": "/firstreactgalley/build/static/media/limonadamangobiche.0f960683.jpg",
+    "static/media/limonadanatural.a3de2b88.jpg": "/firstreactgalley/build/static/media/limonadanatural.a3de2b88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ef78c60.js",
+    "static/js/2.2b528087.chunk.js",
+    "static/css/main.3e4c0697.chunk.css",
+    "static/js/main.0f46c8ad.chunk.js"
+  ]
+}
